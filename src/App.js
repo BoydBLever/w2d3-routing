@@ -5,7 +5,7 @@ import Other from './components/Other';
 import Hero from './components/Hero';
 import ErrorPage from './components/ErrorPage';
 import Form from './components/Form';
-
+// Practice Assignment
 function App() {
   return (
     <div className="App">
